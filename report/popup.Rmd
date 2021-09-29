@@ -1,0 +1,57 @@
+---
+title: "Pop Up Little Library"
+author: "Stephen Kaluzny"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_document:
+    theme: cerulean
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library("dplyr")
+library("ggplot2")
+```
+
+# Data
+
+Read the data file.
+
+```{r read_data}
+d <- readr::read_csv2(here::here("data/popup.csv2"))
+```
+
+```{r day_of_week}
+d <- d %>% mutate(DayOfWeek = lubridate::wday(Date, label=TRUE))
+```
+
+Summary
+```{r summary}
+summary(d)
+```
+
+Total books "sold": `r sum(d$Sold)`
+
+# Plots
+
+```{r plot01}
+d %>% ggplot(aes(x=Date, y=Sold)) +
+  geom_point()
+```
+
+```{r plot02}
+d %>% ggplot(aes(x=Out, y=Sold, color=DayOfWeek)) +
+  geom_point()
+```
+
+```{r plot03}
+d %>% mutate(Frac=Sold/Out) %>%
+  ggplot(aes(x=Frac, y=Sold)) +
+  geom_point()
+```
+
+```{r plot04}
+d %>% mutate(Frac=Sold/Out) %>%
+  ggplot(aes(x=Out, y=Frac)) +
+  geom_point()
+```
