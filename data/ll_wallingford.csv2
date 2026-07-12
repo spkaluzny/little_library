@@ -1,47 +1,47 @@
-Date;Address;LitteFreeLibrary;Photo;Notes;Latitude;Longitude
-2020-03-17;3637 Pacific N;NA;ll-3637-Pacific_N.jpg;;47.651000;-122.331010
-2020-03-17;3833 Burke N;NA;ll-3833-Burke_N.jpg;;47.654150;-122.335450
-2020-03-17;3617 Bagley N;1980;ll-3617-Bagley_N.jpg;;47.651031;-122.333054
-2020-03-16;3617 Meridian N;48601;ll-3617-Meridian_N.jpg;;47.651060;-122.334160
-2020-03-16;3641 Meridian N;37535;ll-3641-Meridian_N.jpg;;NA_lat;NA_lon
-2020-03-20;3802 Densmore N;NA;ll-3802-Densmore_N.jpg;;NA_lat;NA_lon
-2020-03-20;3822 Woodlawn N;42580;ll-3822-Woodlawn_N.jpg;;NA_lat;NA_lon
-2020-03-20;3733 Corliss N;NA;ll-3733-Corliss_N.jpg;On 38th N;NA_lat;NA_lon
-2020-03-20;1609 N 38th;NA;ll-1609-N_38th.jpg;;NA_lat;NA_lon
-2020-03-20;3623 Corliss N;NA;ll-3623-Corliss_N.jpg;;NA_lat;NA_lon
-2020-03-23;3522 Burke N;19788;ll-3522-Burke_N.jpg;;NA_lat;NA_lon
-2021-06-30;4065 4th NE;NA;ll-4065-4th_NE.jpg;;NA_lat;NA_lon
-2019-05-05;2303 N 43rd;7914;ll-2303-N_43rd.jpg;;NA_lat;NA_lon
-2019-05-05;4221 Sunnyside N;NA;ll-4221-Sunnyside_N.jpg;;NA_lat;NA_lon
-2021-09-01;2223 N 44th;95981;ll-2223-N_44th.jpg;;NA_lat;NA_lon
-2023-10-29;3806 Burke N;130599;ll-3806-Burke_N.jpg;;NA_lat;NA_lon
-2023-10-29;4114 Burke N;124562;ll-4114-Burke_N.jpg;;NA_lat;NA_lon
-2023-10-29;4207 Burke N;NA;ll-4207-Burke_N.jpg;;NA_lat;NA_lon
-2023-11-18;3701 Corliss N;NA;ll-3701-Corliss_N.jpg;On N 37th;NA_lat;NA_lon
-2023-11-18;3915 Meridian N;112969;ll-3915-Meridian_N.jpg;;NA_lat;NA_lon
-2024-04-09;1550 N 38th;36769;ll-1550-N_38th.jpg;;NA_lat;NA_lon
-2024-04-19;3611 Woodlawn N;145029;ll-3611-Woodlawn_N.jpg;;NA_lat;NA_lon
-2024-04-19;3623 Woodlawn N;NA;ll-3623-Woodlawn_N.jpg;;NA_lat;NA_lon
-2024-04-23;3628 Burke N;NA;ll-3628-Burke_N.jpg;;NA_lat;NA_lon
-2024-04-30;4023 Bagley N;16471;ll-4023-Bagley_N.jpg;;NA_lat;NA_lon
-2024-04-30;2202 N 41st;NA;ll-2202-N_41st.jpg;On Bagley N;NA_lat;NA_lon
-2024-04-30;2115 N 42nd;84271;ll-2115-N_42nd.jpg;On Bagley N;NA_lat;NA_lon
-2024-04-30;4311 Corliss N;NA;ll-4311-Corliss_N.jpg;;NA_lat;NA_lon
-2023-05-07;1902 N 44th;NA;ll-1902-N_44th.jpg;On Burke N;NA_lat;NA_lon
-2023-05-07;3732 Woodlawn N;NA;ll-3732-Woodlawn_N.jpg;On N 38th;NA_lat;NA_lon
-2025-03-27;4315 Burke N;17066;ll-4315-Burke_N.jpg;;NA_lat;NA_lon
-2025-04-24;3923 Sunnyside N;NA;ll-3923-Sunnyside_N.jpg;;NA_lat;NA_lon
-2025-04-25;3634 Woodlawn N;NA;ll-3634-Woodlawn_N.jpg;;NA_lat;NA_lon
-2025-05-01;4326 Densmore N;NA;ll-4326-Densmore_N.jpg;;NA_lat;NA_lon
-2025-05-03;4310 Woodlawn N;32348;ll-4310-Woodlawn_N.jpg;;NA_lat;NA_lon
-2025-05-03;4101 Woodlawn N;NA;ll-4101-Woodlawn_N.jpg;;NA_lat;NA_lon
-2025-05-03;3925 Woodlawn N;NA;ll-3925-Woodlawn_N.jpg;;NA_lat;NA_lon
-2025-05-25;4135 Ashworth N;NA;ll-4135-Ashworth_N.jpg;;NA_lat;NA_lon
-2025-06-04;4002 Corliss N;NA;ll-4002-Corliss_N.jpg;;NA_lat;NA_lon
-2025-06-04;3925 Corliss N;206584;ll-3925-Corliss_N.jpg;;NA_lat;NA_lon
-2025-06-14;4320 1st NE;18321;ll-4320-1st_NE.jpg;;NA_lat;NA_lon
-2025-06-18;3812 Bagley N;132523;ll-3812-Bagley_N.jpg;;NA_lat;NA_lon
-2025-09-18;3400 Stone Way N;;ll-3400-Stone_Way_N-01.jpg;;NA_lat;NA_lon
-2025-09-18;3400 Stone Way N;207144;ll-3400-Stone_Way_N-02.jpg;On N 34th;NA_lat;NA_lon
-2026-01-09;4016 Meridian N;NA;ll-4016-Meridian_N.jpg;;NA_lat;NA_lon
-2026-07-03;4107 Wallingford N;NA;4107-Wallingford_N.jpg;;NA_lat;NA_lon
+Date;Address;LitteFreeLibrary;Photo;Notes;Latitude;Longitude;acsz
+2020-03-17;3637 Pacific N;NA;ll-3637-Pacific_N.jpg;;47.6534999;-122.3280604;3637 Pacific N, Seattle WA 98103
+2020-03-17;3833 Burke N;NA;ll-3833-Burke_N.jpg;;47.6541299;-122.3353649;3833 Burke N, Seattle WA 98103
+2020-03-17;3617 Bagley N;1980;ll-3617-Bagley_N.jpg;;47.6510217;-122.3329932;3617 Bagley N, Seattle WA 98103
+2020-03-16;3617 Meridian N;48601;ll-3617-Meridian_N.jpg;;47.6510625;-122.3341554;3617 Meridian N, Seattle WA 98103
+2020-03-16;3641 Meridian N;37535;ll-3641-Meridian_N.jpg;;47.6516454;-122.3341534;3641 Meridian N, Seattle WA 98103
+2020-03-20;3802 Densmore N;NA;ll-3802-Densmore_N.jpg;;47.6533354;-122.3371396;3802 Densmore N, Seattle WA 98103
+2020-03-20;3822 Woodlawn N;42580;ll-3822-Woodlawn_N.jpg;;47.6538348;-122.3383667;3822 Woodlawn N, Seattle WA 98103
+2020-03-20;3733 Corliss N;NA;ll-3733-Corliss_N.jpg;On 38th N;47.6529908;-122.3317673;3733 Corliss N, Seattle WA 98103
+2020-03-20;1609 N 38th;NA;ll-1609-N_38th.jpg;;47.6529772;-122.3381518;1609 N 38th, Seattle WA 98103
+2020-03-20;3623 Corliss N;NA;ll-3623-Corliss_N.jpg;;47.6512008;-122.3318134;3623 Corliss N, Seattle WA 98103
+2020-03-23;3522 Burke N;19788;ll-3522-Burke_N.jpg;;47.6499311;-122.3348246;3522 Burke N, Seattle WA 98103
+2021-06-30;4065 4th NE;NA;ll-4065-4th_NE.jpg;;47.6574238;-122.3248111;4065 4th NE, Seattle WA 98103
+2019-05-05;2303 N 43rd;7914;ll-2303-N_43rd.jpg;;47.6590339;-122.3311901;2303 N 43rd, Seattle WA 98103
+2019-05-05;4221 Sunnyside N;NA;ll-4221-Sunnyside_N.jpg;;47.6586514;-122.3304739;4221 Sunnyside N, Seattle WA 98103
+2021-09-01;2223 N 44th;95981;ll-2223-N_44th.jpg;;47.6601545;-122.3318693;2223 N 44th, Seattle WA 98103
+2023-10-29;3806 Burke N;130599;ll-3806-Burke_N.jpg;;47.653394;-122.3348142;3806 Burke N, Seattle WA 98103
+2023-10-29;4114 Burke N;124562;ll-4114-Burke_N.jpg;;47.6572927;-122.3347315;4114 Burke N, Seattle WA 98103
+2023-10-29;4207 Burke N;NA;ll-4207-Burke_N.jpg;;47.6583282;-122.3353601;4207 Burke N, Seattle WA 98103
+2023-11-18;3701 Corliss N;NA;ll-3701-Corliss_N.jpg;On N 37th;47.6521029;-122.3317777;3701 Corliss N, Seattle WA 98103
+2023-11-18;3915 Meridian N;112969;ll-3915-Meridian_N.jpg;;47.6548014;-122.3341183;3915 Meridian N, Seattle WA 98103
+2024-04-09;1550 N 38th;36769;ll-1550-N_38th.jpg;;47.6528542;-122.339102;1550 N 38th, Seattle WA 98103
+2024-04-19;3611 Woodlawn N;145029;ll-3611-Woodlawn_N.jpg;;47.6508836;-122.3389764;3611 Woodlawn N, Seattle WA 98103
+2024-04-19;3623 Woodlawn N;NA;ll-3623-Woodlawn_N.jpg;;47.6511774;-122.3389914;3623 Woodlawn N, Seattle WA 98103
+2024-04-23;3628 Burke N;NA;ll-3628-Burke_N.jpg;;47.6513896;-122.3348049;3628 Burke N, Seattle WA 98103
+2024-04-30;4023 Bagley N;16471;ll-4023-Bagley_N.jpg;;47.6562988;-122.3329021;4023 Bagley N, Seattle WA 98103
+2024-04-30;2202 N 41st;NA;ll-2202-N_41st.jpg;On Bagley N;47.6569441;-122.332378;2202 N 41st, Seattle WA 98103
+2024-04-30;2115 N 42nd;84271;ll-2115-N_42nd.jpg;On Bagley N;47.657685;-122.3329081;2115 N 42nd, Seattle WA 98103
+2024-04-30;4311 Corliss N;NA;ll-4311-Corliss_N.jpg;;47.6595597;-122.331686;4311 Corliss N, Seattle WA 98103
+2023-05-07;1902 N 44th;NA;ll-1902-N_44th.jpg;On Burke N;47.6605071;-122.3347239;1902 N 44th, Seattle WA 98103
+2023-05-07;3732 Woodlawn N;NA;ll-3732-Woodlawn_N.jpg;On N 38th;47.6529941;-122.338407;3732 Woodlawn N, Seattle WA 98103
+2025-03-27;4315 Burke N;17066;ll-4315-Burke_N.jpg;;47.659639;-122.3353311;4315 Burke N, Seattle WA 98103
+2025-04-24;3923 Sunnyside N;NA;ll-3923-Sunnyside_N.jpg;;47.6550004;-122.33057;3923 Sunnyside N, Seattle WA 98103
+2025-04-25;3634 Woodlawn N;NA;ll-3634-Woodlawn_N.jpg;;47.6515245;-122.3384038;3634 Woodlawn N, Seattle WA 98103
+2025-05-01;4326 Densmore N;NA;ll-4326-Densmore_N.jpg;;47.6599826;-122.3370539;4326 Densmore N, Seattle WA 98103
+2025-05-03;4310 Woodlawn N;32348;ll-4310-Woodlawn_N.jpg;;47.6595093;-122.3382807;4310 Woodlawn N, Seattle WA 98103
+2025-05-03;4101 Woodlawn N;NA;ll-4101-Woodlawn_N.jpg;;47.6569963;-122.3389231;4101 Woodlawn N, Seattle WA 98103
+2025-05-03;3925 Woodlawn N;NA;ll-3925-Woodlawn_N.jpg;;47.6551317;-122.3389289;3925 Woodlawn N, Seattle WA 98103
+2025-05-25;4135 Ashworth N;NA;ll-4135-Ashworth_N.jpg;;47.6578521;-122.3399901;4135 Ashworth N, Seattle WA 98103
+2025-06-04;4002 Corliss N;NA;ll-4002-Corliss_N.jpg;;47.6557287;-122.331167;4002 Corliss N, Seattle WA 98103
+2025-06-04;3925 Corliss N;206584;ll-3925-Corliss_N.jpg;;47.6551008;-122.3317196;3925 Corliss N, Seattle WA 98103
+2025-06-14;4320 1st NE;18321;ll-4320-1st_NE.jpg;;47.6596888;-122.3280678;4320 1st NE, Seattle WA 98103
+2025-06-18;3812 Bagley N;132523;ll-3812-Bagley_N.jpg;;47.6535698;-122.3323472;3812 Bagley N, Seattle WA 98103
+2025-09-18;3400 Stone Way N;NA;ll-3400-Stone_Way_N-01.jpg;;47.6489103;-122.3422744;3400 Stone Way N, Seattle WA 98103
+2025-09-18;3400 Stone Way N;207144;ll-3400-Stone_Way_N-02.jpg;On N 34th;47.6489103;-122.3422744;3400 Stone Way N, Seattle WA 98103
+2026-01-09;4016 Meridian N;NA;ll-4016-Meridian_N.jpg;;47.6561298;-122.333541;4016 Meridian N, Seattle WA 98103
+2026-07-03;4107 Wallingford N;NA;4107-Wallingford_N.jpg;;47.6569016;-122.3462427;4107 Wallingford N, Seattle WA 98103
